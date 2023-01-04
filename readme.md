@@ -19,14 +19,14 @@ https://user-images.githubusercontent.com/8515368/210542036-b7f4d6bd-f522-4950-b
 
 ## Uso mediante entorno web
 
-La siguiente imagen es la pagina web permite manipular el estado de los dispositivos conectados, la dirección por defecto es http://192.168.2.40 que se corresponde con la variable *IPAddress g_NetWsIPAddresslocal_IP(192, 168, 2, 40);* del fichero "mainDefines.h"
+La siguiente imagen es la pagina web permite manipular el estado de los dispositivos conectados, la dirección por defecto es http://192.168.2.40 que se corresponde con la variable *IPAddress g_NetWsIPAddresslocal_IP(192, 168, 2, 40);* del fichero "mainDefines.h".
 
 Como se puede ver por el momento ofrece mas opciones que Alexa, esta ultima solo permite encender y apagar.
 
 ![belenWeb](https://user-images.githubusercontent.com/8515368/210620610-69200b41-fd9f-4927-a009-005d696fb037.jpg)
 
 
-## Que se necesita de hardware
+## ¿Qué se necesita de hardware?
 
 - ESP32 DEV KIT
 - KIT DE 4 RELES conectados a pins 26, 25, 33, 32}
