@@ -20,6 +20,7 @@ https://user-images.githubusercontent.com/8515368/210542036-b7f4d6bd-f522-4950-b
 - KIT DE 4 RELES
 - Cables
 - Leds
+- RGB ring led 24leds compatible con NeoPixel
 - Resistencias
 - transformador de 5v con 3-6a dependiendo del numero de led
 Oppcional el portal se puede instar un anillo de leds neopixel, para cambiar automaticamente los colores en secuencia suave
