@@ -22,10 +22,10 @@ Oppcional el portal se puede instar un anillo de leds neopixel, para cambiar aut
 - Platformio
 - Arduino ide configurado para esp32
 - Librerias
-	-- ESP Async WebServer
-	-- FauxmoESP
-	-- ESPAsyncTCP
-	-- adafruit/Adafruit NeoPixel
+-- ESP Async WebServer
+-- FauxmoESP
+-- ESPAsyncTCP
+-- adafruit/Adafruit NeoPixel
   
 
 
