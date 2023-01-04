@@ -9,7 +9,7 @@ Maneza cuatro zonas del belen con alexa, atendera a los comandos:
 - Fuego: Enciende y apaga  los leds del fuego, o lo que conectemos a rele 3
 - Castillo: Enciende y apaga  los leds del castillo, o lo que conectemos a rele 4
 - 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/vniclos/alexa belen.mp4))
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]((https://github.com/vniclos/alexa belen.mp4))
 
 
 
