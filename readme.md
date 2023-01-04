@@ -64,4 +64,5 @@ IPAddress g_NetWsIpDNS1(8, 8, 8, 8); // optional
 IPAddress g_NetWSIpDNS2(8, 8, 4, 4); //optional
 ```
 
+![belenWeb](https://user-images.githubusercontent.com/8515368/210620610-69200b41-fd9f-4927-a009-005d696fb037.jpg)
 
