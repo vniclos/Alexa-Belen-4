@@ -37,9 +37,9 @@ Como se puede ver por el momento ofrece mas opciones que Alexa, esta ultima solo
 - Transformador de 5v con 3-6a dependiendo del numero de leds
 
 
-Opcional: en el portal se puede instalar un anillo de leds neopixel, para cambiar automaticamente los colores en secuencia suave.
+Opcional: en el portal se puede instalar un anillo de leds neopixel, para cambiar automáticamente los colores en secuencia suave.
 
-## Que entorno necesito para compilarlo
+## ¿Qué entorno necesito para compilarlo?
 - Visual studio code
 - Platformio
 - Arduino ide configurado para esp32
