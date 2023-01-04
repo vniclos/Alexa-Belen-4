@@ -48,8 +48,20 @@ const int g_pingRingLed = 15;
 int g_pinRelays[4] = {26, 25, 33, 32}; // 3534}
 ```
   
- Configuracion wifi
+ Configuracion wifi se debe ajustar en el fichero "mainDefines.h
+ 
+ Ajustando wifi sisid y wifi password, asi como una ip libre correspondiente a tu rango de ip 
 
-
+```c
+long g_NetWsWifiIntervalPrevious = 0;
+long g_NetWsWifiIntervalLapse = 30000;
+const char *g_NetWsWifiSsid = "Your wifi";
+const char *g_NetWsWifiPwd = "your wifi pasword";
+IPAddress g_NetWsIPAddresslocal_IP(192, 168, 2, 40);
+IPAddress g_NetWsIpGateway(192, 168, 2, 1);
+IPAddress g_NetWsIpSubnet(255, 255, 255, 0);
+IPAddress g_NetWsIpDNS1(8, 8, 8, 8); // optional
+IPAddress g_NetWSIpDNS2(8, 8, 4, 4); //optional
+```
 
 
