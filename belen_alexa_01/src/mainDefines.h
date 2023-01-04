@@ -27,8 +27,8 @@ AsyncWebServer g_NetWebServer(80);
 
 long g_NetWsWifiIntervalPrevious = 0;
 long g_NetWsWifiIntervalLapse = 30000;
-const char *g_NetWsWifiSsid = "testudines";
-const char *g_NetWsWifiPwd = "915265ABCD";
+const char *g_NetWsWifiSsid = "Your wifi";
+const char *g_NetWsWifiPwd = "your wifi pasword";
 IPAddress g_NetWsIPAddresslocal_IP(192, 168, 2, 40);
 IPAddress g_NetWsIpGateway(192, 168, 2, 1);
 IPAddress g_NetWsIpSubnet(255, 255, 255, 0);
