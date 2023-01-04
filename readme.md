@@ -51,18 +51,16 @@ Opcional: en el portal se puede instalar un anillo de leds neopixel, para cambia
   
 ## Personalizar ajustes, se realiza en el fichero "mainDdefines.h"
 
-Pins usados en fichero "mainDefines.h"
+Los pins usados están definidos en el fichero "mainDefines.h" de esta forma:
 
-Estos son los pines utilizados por defecto
 ```c
 const int g_pinIntLedBlue =2;
 const int g_pingRingLed = 15;
 int g_pinRelays[4] = {26, 25, 33, 32}; // 3534}
 ```
   
- Configuracion wifi se debe ajustar en el fichero "mainDefines.h
- 
- Ajustando wifi ssid y wifi password, asi como una ip libre correspondiente a tu rango de ip 
+ La configuración wifi se debe ajustar en el fichero "mainDefines.h, 
+ ajustando wifi ssid y wifi password, así como una ip libre correspondiente al rango ip de tu red interna. 
 
 ```c
 long g_NetWsWifiIntervalPrevious = 0;
