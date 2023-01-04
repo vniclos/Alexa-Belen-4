@@ -1,4 +1,4 @@
-# alexa belen 4 areas
+# Alexa  Belen: manejando 4 zonas
 
 ##que hace este projecto
 
@@ -8,13 +8,15 @@ Maneza cuatro zonas del belen con alexa, atendera a los comandos:
 - Cielo: Enciende y apaga  los leds del cielo conectados, o lo que conectemos alrele 2
 - Fuego: Enciende y apaga  los leds del fuego, o lo que conectemos a rele 3
 - Castillo: Enciende y apaga  los leds del castillo, o lo que conectemos a rele 4
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](alexa belen.mp4Y)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]https://github.com/vniclos/Alexa-Belen-4/commit/e9c282286eac7d76958148898cfff4939f44693e)
 
 ## que se necesita de hardware
 
 - ESP32 DEV KIT
 - KIT DE 4 RELES
 - Cables
+- Leds
+- Resistencias
 - transformador de 5v con 3-6a dependiendo del numero de led
 Oppcional el portal se puede instar un anillo de leds neopixel, para cambiar automaticamente los colores en secuencia suave
 
