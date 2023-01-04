@@ -1,8 +1,8 @@
-# Alexa  Belen: manejando 4 zonas
+# Alexa Belen 
 
 ##que hace este projecto
 
-Maneza cuatro zonas del belen con alexa, atendera a los comandos:
+Maneja cuatro zonas del belen con alexa y en entorno web, atendera a los comandos:
 
 - Portal: Enciende y apaga el portal conectado a rele 1
 - Cielo: Enciende y apaga  los leds del cielo conectados, o lo que conectemos alrele 2
@@ -10,10 +10,10 @@ Maneza cuatro zonas del belen con alexa, atendera a los comandos:
 - Castillo: Enciende y apaga  los leds del castillo, o lo que conectemos a rele 4
 
 ## Uso mediante Alexa.
-- **Para el portal: Alexa**! enciende el portal, y Alexa! apaga el portal
-- **Para el cielo: Alexa!** Enciende el cielo, y Alexa! apaga el cielo
-- **Para el fuego: Alexa!** Enciende el fuego, y Alexa! apaga el fuego
-- **Para el castillo Alexa!** Enciende el castillo, y Alexa! apaga el Castillo
+- **Para el portal: Alexa**! enciende el portal, y Alexa! apaga el portal. (Maneja rele 0)
+- **Para el cielo: Alexa!** Enciende el cielo, y Alexa! apaga el cielo. (Maneja rele 1)
+- **Para el fuego: Alexa!** Enciende el fuego, y Alexa! apaga el fuego. (Maneja rele 2)
+- **Para el castillo Alexa!** Enciende el castillo, y Alexa! apaga el Castillo. (Maneja rele 3)
 
 
 Puedes ver este video de testeo de funciomamiento
