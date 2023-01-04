@@ -9,7 +9,6 @@
 
 #define SERIAL_BAUDRATE                 115200
 const int g_pinIntLedBlue =2;
-const int g_pingSensorLed = 23;
 const int g_pingRingLed = 15;
 int g_pinRelays[4] = {26, 25, 33, 32}; // 3534}
 //int g_pinRelays[8] = {23, 21, 19, 4, 25, 16, 13, 26}; // 3534}
