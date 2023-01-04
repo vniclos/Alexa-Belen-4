@@ -1,8 +1,10 @@
 # Alexa Belen 
 
-##que hace este projecto
+## Que hace este projecto
 
-Maneja cuatro zonas del belen con alexa y en entorno web, atendera a los comandos:
+Maneja cuatro zonas del belen con Alexa y con entorno web.
+
+**Atenderá a los comandos**:
 
 - Portal: Enciende y apaga el portal conectado a rele 1
 - Cielo: Enciende y apaga  los leds del cielo conectados, o lo que conectemos alrele 2
