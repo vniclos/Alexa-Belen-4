@@ -4,18 +4,11 @@
 
 Maneja cuatro zonas del belen con Alexa y con entorno web.
 
-**Atenderá a los comandos**:
-
-- Portal: Enciende y apaga el portal conectado a rele 1
-- Cielo: Enciende y apaga  los leds del cielo conectados, o lo que conectemos alrele 2
-- Fuego: Enciende y apaga  los leds del fuego, o lo que conectemos a rele 3
-- Castillo: Enciende y apaga  los leds del castillo, o lo que conectemos a rele 4
-
 ## Uso mediante Alexa.
-- **Para el portal: Alexa**! enciende el portal, y Alexa! apaga el portal. (Maneja rele 0)
-- **Para el cielo: Alexa!** Enciende el cielo, y Alexa! apaga el cielo. (Maneja rele 1)
-- **Para el fuego: Alexa!** Enciende el fuego, y Alexa! apaga el fuego. (Maneja rele 2)
-- **Para el castillo Alexa!** Enciende el castillo, y Alexa! apaga el Castillo. (Maneja rele 3)
+- **Para el portal:** Alexa! Enciende el portal, y Alexa! apaga el portal. (Maneja relé 0)
+- **Para el cielo:** Alexa! Enciende el cielo, y Alexa! apaga el cielo. (Maneja relé 1)
+- **Para el fuego:** Alexa! Enciende el fuego, y Alexa! apaga el fuego. (Maneja relé 2)
+- **Para el castillo:** Alexa! Enciende el castillo, y Alexa! apaga el castillo. (Maneja relé 3)
 
 
 Puedes ver este video de testeo de funciomamiento
