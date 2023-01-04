@@ -1,8 +1,8 @@
-# Alexa Belen 
+# Alexa Belén 
 
 ## Que hace este projecto
 
-Maneja cuatro zonas del belen con Alexa y con entorno web.
+Maneja cuatro zonas del belén con Alexa y con entorno web.
 
 ## Uso mediante Alexa
 - **Para el portal:** Alexa! Enciende el portal, y Alexa! apaga el portal. (Maneja relé 0)
